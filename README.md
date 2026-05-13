@@ -16,14 +16,6 @@ I design and build APIs and backend systems — with a focus on clean architectu
 
 ---
 
-### Selected work
-
-- **[project-name](#)** — One-line description of what it does and why it matters.
-- **[project-name](#)** — One-line description of what it does and why it matters.
-- **[project-name](#)** — One-line description of what it does and why it matters.
-
----
-
 ### Contact
 
 [Email](mailto:your-email@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-handle) &nbsp;·&nbsp; [Discord](https://discord.com/users/your-id)
