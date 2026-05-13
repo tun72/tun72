@@ -1,5 +1,3 @@
-# Tun Tun Myint
-
 **Backend Developer** &nbsp;·&nbsp; Yangon, Myanmar
 
 I design and build APIs and backend systems — with a focus on clean architecture, scalable services, and good developer experience. Currently working across the Node.js and Python ecosystems.
