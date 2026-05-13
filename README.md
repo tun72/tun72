@@ -1,118 +1,46 @@
-<h1 align="center">
-  <code>~/tun-tun-myint</code>
-</h1>
+# Tun Tun Myint
 
-<p align="center">
-  <em>Backend developer · Yangon, Myanmar 🇲🇲</em>
-</p>
+**Backend Developer** &nbsp;·&nbsp; Yangon, Myanmar
 
-<p align="center">
-  <a href="#-stack">Stack</a> ·
-  <a href="#-currently">Currently</a> ·
-  <a href="#-reach-me">Reach me</a>
-</p>
+I design and build APIs and backend systems — with a focus on clean architecture, scalable services, and good developer experience. Currently working across the Node.js and Python ecosystems.
 
 ---
 
-```ts
-const tun = {
-  role: "Backend Developer",
-  location: "Yangon, Myanmar",
-  focus: ["APIs", "scalable systems", "clean architecture"],
-  stack: {
-    runtime: ["Node.js", "Express", "NestJS"],
-    languages: ["TypeScript", "JavaScript", "Python", "Java"],
-    databases: ["MongoDB"],
-    frontend: ["Next.js", "React", "Tailwind"],
-  },
-  motto: "Ship it, then make it pretty.",
-};
-```
+### Stack
+
+| | |
+|---|---|
+| **Languages** | TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Java |
+| **Backend**   | Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; NestJS |
+| **Frontend**  | Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Tailwind CSS |
+| **Database**  | MongoDB |
+| **Tools**     | Git &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Postman |
 
 ---
 
-## 🧰 &nbsp;Stack
+### Selected work
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+- **[project-name](#)** — One-line description of what it does and why it matters.
+- **[project-name](#)** — One-line description of what it does and why it matters.
+- **[project-name](#)** — One-line description of what it does and why it matters.
 
-**Backend**
-- Node.js
-- Express
-- NestJS
-- Python
-- Java
+---
 
-</td>
-    <td valign="top" width="33%">
+### Contact
 
-**Frontend**
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
+[Email](mailto:your-email@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-handle) &nbsp;·&nbsp; [Discord](https://discord.com/users/your-id)
 
-</td>
-    <td valign="top" width="33%">
-
-**Database & Tools**
-- MongoDB
-- HTML5 / CSS3
-- Git
-
-</td>
-  </tr>
-</table>
+<br>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="NestJS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-1F1F1F?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Node.js-1F1F1F?style=flat-square&logo=node.js&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/NestJS-1F1F1F?style=flat-square&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Express-1F1F1F?style=flat-square&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Next.js-1F1F1F?style=flat-square&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React-1F1F1F?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-1F1F1F?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/MongoDB-1F1F1F?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-1F1F1F?style=flat-square&logo=openjdk&logoColor=ED8B00" />
 </p>
-
----
-
-## 🚧 &nbsp;Currently
-
-```bash
-$ tun --status
-> building REST & GraphQL APIs with NestJS
-> learning system design & distributed patterns
-> open to collaborating on backend projects
-```
-
----
-
-## 📬 &nbsp;Reach me
-
-<p>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/your-id">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@your-channel">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/your-instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<sub><em>"Backend is where the magic actually happens."</em></sub>
